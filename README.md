@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoabOwala
-- 👀 I’m interested in big data analysis from IoT devices
-- 🌱 I’m currently learning web development and python
-- 💞️ I’m looking to collaborate on web development, python and arduino
+- 👀 I’m interested in big data analysis from IoT devices and computer networks
+- 🌱 I’m currently learning web development, python and cisco routing & switching
+- 💞️ I’m looking to collaborate on web development, python, arduino and cisco devices connections
 - 📫 How to reach me owalajoab@gmail.com
 
 <!---
