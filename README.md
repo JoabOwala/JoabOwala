@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JoabOwala
-- 👀 I’m interested in big data analysis from IoT devices and computer networks
-- 🌱 Currently working on web development, python and cisco routing & switching projects
+- 👋 Hi, I’m @JoabOwala a Software Developer
+- 👀 I’m interested in big data analysis, A.I and computer networks
+- 🌱 Currently working on web development projects, python and cisco routing & switching projects
 - 💞️ I’m looking to collaborate on web development, python, arduino and cisco devices connections
 - 📫 How to reach me owalajoab@gmail.com
 
