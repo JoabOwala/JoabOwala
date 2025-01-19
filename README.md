@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @JoabOwala a Software Developer || Computer Science || Lifelong Learner 
-- 👀 I’m interested in big data analysis, A.I, M.L and computer networks
-- 🌱 Currently working on go lang and web development projects
-- 💞️ I’m looking to collaborate on JavaScript · TypeScript · NodeJS · API Design & Testing · Databases · Ruby · React · CSS
-- 📫 How to reach me owalajoab@gmail.com
+- 👋 Hi, I’m @JoabOwala I Write Code
+- 📫 Create a project, add me as a contributor
 
 <!---
 JoabOwala/JoabOwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
